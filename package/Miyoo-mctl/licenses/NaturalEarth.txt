@@ -1,0 +1,3 @@
+The world map is rasterised from Natural Earth 1:50m land polygons
+(https://www.naturalearthdata.com), which are in the public domain,
+as packaged by the world-atlas project (ISC licence, see ISC-world-atlas.txt).

@@ -1,0 +1,6 @@
+{
+  "label": "Miyoo mctl",
+  "icon": "/mnt/SDCARD/App/Miyoo-mctl/icon.png",
+  "launch": "launch.sh",
+  "description": "Mission-control spacecraft tracker"
+}

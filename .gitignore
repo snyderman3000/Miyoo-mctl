@@ -1,0 +1,7 @@
+dist/
+package/Miyoo-mctl/mctl
+package/Miyoo-mctl/icon.png
+package/Miyoo-mctl/data/
+go.work
+go.work.sum
+*.png.tmp
